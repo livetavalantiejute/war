@@ -9,3 +9,4 @@ Until there are cards:
 2. Print the cards of each player
 3. Compare the two cards
 4. Give away cards to player, who won the round
+5. If war, put one closed, and one open card
